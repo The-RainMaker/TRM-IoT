@@ -1,0 +1,7 @@
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 33.20, "TimeCreated" : "2015-08-23 02:53:32.872355" }
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 33.20, "TimeCreated" : "2015-08-23 02:53:35.874491" }
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 32.71, "TimeCreated" : "2015-08-23 02:53:38.877881" }
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 33.20, "TimeCreated" : "2015-08-23 02:53:41.880031" }
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 33.20, "TimeCreated" : "2015-08-23 02:53:44.882198" }
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 33.20, "TimeCreated" : "2015-08-23 02:53:47.885605" }
+{ "DeviceID" : "RainMaker-RPi2B", "SensorID" : "Arduino-LM35", "SensorType" : "Temperature", "SensorValue" : 33.20, "TimeCreated" : "2015-08-23 02:53:50.887727" }
