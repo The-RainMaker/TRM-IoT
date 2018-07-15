@@ -20,8 +20,8 @@ int LM35_PIN   = A0;
 int rawVoltage = 0;
 float celcius  = 0;
 /* initialize wifi properties */
-const char ssid[] = "NOKIA Lumia 820_0527";
-const char pass[] = "papamarcus";
+const char ssid[] = "RAINMAKER-SF";
+const char pass[] = "key2-homewlan";
 /* initializes time-related variables, ntp server using ntp.nict.jp */
 #define TIMEZONE 7
 IPAddress timeServer(133, 243, 238, 243);
